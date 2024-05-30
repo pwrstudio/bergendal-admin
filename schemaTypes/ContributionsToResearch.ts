@@ -24,7 +24,7 @@ export default {
                     icon: MdTextFields,
                     fields: [
                         {
-                            title: 'year',
+                            title: 'Year',
                             name: 'year',
                             type: 'number',
                         },

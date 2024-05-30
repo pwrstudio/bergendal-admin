@@ -24,7 +24,7 @@ export default {
                     icon: MdTextFields,
                     fields: [
                         {
-                            title: 'title',
+                            title: 'Title',
                             name: 'title',
                             type: 'string',
                         },

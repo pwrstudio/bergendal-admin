@@ -13,11 +13,6 @@ export default {
             validation: (Rule: any) => Rule.required(),
         },
         {
-            title: "Featured Image",
-            name: "featuredImage",
-            type: "image",
-        },
-        {
             title: "Start year",
             name: "startYear",
             type: "number",
