@@ -42,6 +42,11 @@ export default {
                     type: "image",
                     fields: [
                         {
+                            title: 'Year',
+                            name: 'year',
+                            type: 'number',
+                        },
+                        {
                             title: "Caption",
                             name: "caption",
                             type: "string",
@@ -59,6 +64,11 @@ export default {
                             type: 'url',
                             title: 'URL',
                             description: "Youtube or vimeo. Eg. https://www.youtube.com/watch?v=GAKetEPZb8c"
+                        },
+                        {
+                            title: 'Year',
+                            name: 'year',
+                            type: 'number',
                         },
                         {
                             title: "Poster image",
